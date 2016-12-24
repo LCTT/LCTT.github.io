@@ -62,6 +62,7 @@ LCTT 的组成
 -------------------------------
 
 目前 TP 活跃成员有：
+
 - Leader @wxy,
 - Source @oska874,
 - Proofreaders @jasminepeng,
