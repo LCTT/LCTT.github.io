@@ -2,7 +2,7 @@ title: Linux.Cn Translation Team (LCTT)
 description: Linux中国 - 翻译组
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-modernist
+theme: jekyll-theme-slate
 
 gems:
   - jekyll-mentions
